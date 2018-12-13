@@ -1,0 +1,6 @@
+c:\Users\Fiach\documents\visual studio 2013\Projects\udptest\udpserver\bin\Debug\udpserver.exe.config
+c:\Users\Fiach\documents\visual studio 2013\Projects\udptest\udpserver\bin\Debug\udpserver.exe
+c:\Users\Fiach\documents\visual studio 2013\Projects\udptest\udpserver\bin\Debug\udpserver.pdb
+c:\Users\Fiach\documents\visual studio 2013\Projects\udptest\udpserver\obj\Debug\udpserver.csprojResolveAssemblyReference.cache
+c:\Users\Fiach\documents\visual studio 2013\Projects\udptest\udpserver\obj\Debug\udpserver.exe
+c:\Users\Fiach\documents\visual studio 2013\Projects\udptest\udpserver\obj\Debug\udpserver.pdb
